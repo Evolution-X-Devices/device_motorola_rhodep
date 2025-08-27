@@ -27,6 +27,7 @@ PRODUCT_PACKAGES += \
     FrameworksResDeviceXT2225-2 \
     LineageApertureAppDevice \
     LineageSystemUIDevice \
+    SettingsResDevice \
     SystemUIResDevice \
     WifiResDevice \
     WifiResDeviceXT2225-2
