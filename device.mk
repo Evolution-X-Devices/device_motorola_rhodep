@@ -29,6 +29,7 @@ PRODUCT_PACKAGES += \
     LineageSystemUIDevice \
     SettingsResDevice \
     SystemUIResDevice \
+    TurboPowerOverlay \
     WifiResDevice \
     WifiResDeviceXT2225-2
 
