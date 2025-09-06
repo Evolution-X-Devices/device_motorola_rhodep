@@ -13,3 +13,6 @@ ro.surface_flinger.set_idle_timer_ms=250
 
 # Radio
 ro.vendor.radio.imei.sv=26
+
+# SKU specific properties
+import /vendor/etc/props/hardware.sku.${ro.boot.hardware.sku}.prop
