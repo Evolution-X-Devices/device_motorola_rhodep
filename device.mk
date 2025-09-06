@@ -56,6 +56,12 @@ PRODUCT_PACKAGES += \
     init.nfc.sec.rc \
     init.oem.fingerprint2.sh
 
+# Moto Camera 4
+TARGET_MOTCAMERA4 := rhodep
+TARGET_USES_MOTCAMERA4 := true
+
+$(call inherit-product, vendor/motorola/MotCamera4-sm6375/motcamera4.mk)
+
 # NFC
 PRODUCT_PACKAGES += \
     android.hardware.nfc-service.sec \
