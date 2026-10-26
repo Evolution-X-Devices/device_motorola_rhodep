@@ -1,0 +1,19 @@
+[
+  {
+    "repository": "device_motorola_sm6375-common",
+    "target_path": "device/motorola/sm6375-common",
+    "remote": "evo-devices"
+  },
+  {
+    "repository": "Deivid-21s-Sources/proprietary_vendor_motorola_rhodep",
+    "target_path": "vendor/motorola/rhodep",
+    "remote": "github-non-los",
+    "branch": "lineage-24.0"
+  },
+  {
+    "repository": "LineageOS/android_hardware_samsung_slsi_nfc",
+    "target_path": "hardware/samsung_slsi/nfc",
+    "remote": "github-non-los",
+    "branch": "lineage-24.0"
+  }
+]
